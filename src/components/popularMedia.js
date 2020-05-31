@@ -45,5 +45,4 @@ class PopularMedia extends React.Component {
         )
     }
 }
-
 export default PopularMedia;
